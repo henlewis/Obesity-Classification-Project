@@ -44,6 +44,7 @@ Jupyter Notebook
 📈 **Evaluation**
 We used macro F1-score as the primary evaluation metric to ensure fair performance across all obesity classes.
 Achieving a final kaggle submission score of **_0.9665_**
+Achieving a final project grade of **_18/20_**
 
 💡 **Future Improvements**
 Try SMOTE or other class balancing techniques
